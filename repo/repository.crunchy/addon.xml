@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="crunchy" name="repo" version="1" provider-name="fallixmelb">
+<addon id="crunchy" name="repo" version="1.0.1" provider-name="fallixmelb">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir minversion="19.0.0">
             <info compressed="false">https://raw.githubusercontent.com/fallixmelb/repo/master/nexus/zips/addons.xml</info>
@@ -7,9 +7,9 @@
             <datadir zip="true">https://raw.githubusercontent.com/fallixmelb/repo/master/nexus/zips/</datadir>
         </dir>
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/fallixmelb/repo/DEFAULT_master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/fallixmelb/repo/DEFAULT_master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/fallixmelb/repo/DEFAULT_master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/fallixmelb/repo/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/fallixmelb/repo/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/fallixmelb/repo/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
