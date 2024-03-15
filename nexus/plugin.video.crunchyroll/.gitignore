@@ -1,0 +1,4 @@
+Thumbs.db
+*.pyo
+__pycache__
+/.idea/*

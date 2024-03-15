@@ -1,0 +1,255 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@kodi.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2018-12-25 20:38+0100\n"
+"Language-Team: Nux007\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.0.6\n"
+
+# Crunchyroll Settings
+msgctxt "#30200"
+msgid "Login"
+msgstr "Se connecter"
+
+msgctxt "#30210"
+msgid "Languages"
+msgstr "Lanagages"
+
+msgctxt "#30220"
+msgid "Playback"
+msgstr "Lecture"
+
+msgctxt "#30230"
+msgid "Other"
+msgstr "Autre"
+
+msgctxt "#30001"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "#30002"
+msgid "Password"
+msgstr "Mot de passe"
+
+msgctxt "#30003"
+msgid "Synchronize play time progress"
+msgstr "Synchroniser la progression de lecture"
+
+msgctxt "#30004"
+msgid "Configure InputStream Adaptive"
+msgstr "Configurer InputStream Adaptive"
+
+msgctxt "#30005"
+msgid "Soft Subtitles"
+msgstr ""
+
+msgctxt "#30010"
+msgid "General"
+msgstr "Général"
+
+msgctxt "#30011"
+msgid "Skip intro"
+msgstr "Passer l'introduction"
+
+msgctxt "#30012"
+msgid "Skip credits"
+msgstr "Passer les crédits"
+
+msgctxt "#30015"
+msgid "Skip"
+msgstr "Passer"
+
+msgctxt "#30020"
+msgid "Subtitle Language"
+msgstr "Language des sous titres"
+
+msgctxt "#30021"
+msgid "English"
+msgstr "Anglais"
+
+# 30022 free
+
+msgctxt "#30023"
+msgid "Spanish"
+msgstr "Espagnol"
+
+msgctxt "#30024"
+msgid "Spanish (Spain)"
+msgstr "Espagnol (Espagne)"
+
+msgctxt "#30025"
+msgid "Portuguese (Brazil)"
+msgstr "Portugais (Brésil)"
+
+msgctxt "#30026"
+msgid "Portuguese (Portugal)"
+msgstr "Portugais (Portugal)"
+
+msgctxt "#30027"
+msgid "French (France)"
+msgstr "Français (France)"
+
+msgctxt "#30028"
+msgid "German"
+msgstr "Allemand"
+
+msgctxt "#30029"
+msgid "Arabic"
+msgstr "Arabe"
+
+msgctxt "#30030"
+msgid "Italian"
+msgstr "Italien"
+
+msgctxt "#30031"
+msgid "Russian"
+msgstr "Russe"
+
+msgctxt "#30032"
+msgid "Hindi"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Filter available dubs"
+msgstr "Filtrer les langues audio disponibles"
+
+msgctxt "#30039"
+msgid "In an anime seasons view, only display dubs in either Japanese, your CR language or any of your configured subtitle languages."
+msgstr "Dans une vue de saisons d'anime, n'affichez que les langues audio en japonais, votre langue Crunchyroll ou l'une des langues de sous-titres que vous avez configurées."
+
+
+# Crunchyroll Menue
+msgctxt "#30040"
+msgid "Queue"
+msgstr "File d'attente"
+
+msgctxt "#30041"
+msgid "Search"
+msgstr "Recherche"
+
+msgctxt "#30042"
+msgid "History"
+msgstr "Historique"
+
+msgctxt "#30043"
+msgid "Random"
+msgstr "Aléatoire"
+
+msgctxt "#30044"
+msgid "Next page"
+msgstr "Page suivante"
+
+msgctxt "#30045"
+msgid "Goto series"
+msgstr "Aller à séries"
+
+msgctxt "#30046"
+msgid "Goto season"
+msgstr "Aller à saisons"
+
+msgctxt "#30047"
+msgid "Resume"
+msgstr "Reprendre"
+
+# 30048 free
+
+msgctxt "#30049"
+msgid "Crunchylists"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Anime"
+msgstr "Animes"
+
+msgctxt "#30051"
+msgid "Drama"
+msgstr "Dramas"
+
+msgctxt "#30052"
+msgid "Popular"
+msgstr "Populaires"
+
+msgctxt "#30053"
+msgid "Simulcasts"
+msgstr "Diffusions simultanées (Simulcasts)"
+
+msgctxt "#30054"
+msgid "Updated"
+msgstr "Mis à jour"
+
+msgctxt "#30055"
+msgid "Alphabetical"
+msgstr "Alphabétique"
+
+msgctxt "#30056"
+msgid "Genres"
+msgstr "Genres"
+
+msgctxt "#30057"
+msgid "Seasons"
+msgstr "Saisons"
+
+msgctxt "#30058"
+msgid "Featured"
+msgstr "En vedette"
+
+msgctxt "#30059"
+msgid "Newest"
+msgstr "Nouveautés"
+
+# Crunchyroll Messages
+msgctxt "#30060"
+msgid "Login failed"
+msgstr "Erreur de connexion"
+
+msgctxt "#30061"
+msgid "An error occurred"
+msgstr "Une erreur est survenue"
+
+msgctxt "#30062"
+msgid "You need to be logged in"
+msgstr "Vus devez être connecté"
+
+msgctxt "#30063"
+msgid "You need to be a premium member"
+msgstr "Voius devez être un membre premium"
+
+msgctxt "#30064"
+msgid "Failed to play video"
+msgstr "Erreur de lecture vidéo"
+
+msgctxt "#30065"
+msgid "Do you want to continue watching at %s%%?"
+msgstr "Voulez vous continuer à regarder depuis %s%% ?"
+
+msgctxt "#30066"
+msgid "If the video does not start wait 30 seconds for the fallback to start."
+msgstr "Si la vidéo ne démarre pas, attendez 30 secondes et recommencez."
+
+msgctxt "#30067"
+msgid "Add to queue"
+msgstr "Ajouter à la file d'attente"
+
+msgctxt "#30068"
+msgid "Remove from queue"
+msgstr "Supprimer de la file d'attente"
+
+msgctxt "#30069"
+msgid "Alternative Subtitle Language"
+msgstr "Langage de sous-titres alternatif"
+
+msgctxt "#30070"
+msgid "None"
+msgstr "Aucun"
+
+msgctxt "#30071"
+msgid "Added to queue"
+msgstr "Ajouté à la file d'attente"

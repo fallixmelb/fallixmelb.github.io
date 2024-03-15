@@ -1,0 +1,259 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@kodi.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+# Crunchyroll Settings
+msgctxt "#30200"
+msgid "Login"
+msgstr ""
+
+msgctxt "#30210"
+msgid "Languages"
+msgstr ""
+
+msgctxt "#30220"
+msgid "Playback"
+msgstr ""
+
+msgctxt "#30230"
+msgid "Other"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Email"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Password"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Synchronize play time progress"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Configure InputStream Adaptive"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Soft Subtitles"
+msgstr ""
+
+msgctxt "#30010"
+msgid "General"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Skip intro"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Skip credits"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Skip"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Subtitle Language"
+msgstr ""
+
+msgctxt "#30021"
+msgid "English"
+msgstr ""
+
+# 30022 free
+
+msgctxt "#30023"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Spanish (Spain)"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+msgctxt "#30027"
+msgid "French (France)"
+msgstr ""
+
+msgctxt "#30028"
+msgid "German"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Arabic"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Russian"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Hindi"
+msgstr ""
+
+
+msgctxt "#30038"
+msgid "Filter available dubs"
+msgstr "Filter available dubs"
+
+msgctxt "#30039"
+msgid "In an anime seasons view, only display dubs in either Japanese, your CR language or any of your configured subtitle languages."
+msgstr "In an anime seasons view, only display dubs in either Japanese, your CR language or any of your configured subtitle languages."
+
+
+# Crunchyroll Menue
+
+msgctxt "#30040"
+msgid "Queue"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30042"
+msgid "History"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Random"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Next page"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Goto series"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Goto season"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Resume"
+msgstr ""
+
+# 30048 free
+
+msgctxt "#30049"
+msgid "Crunchylists"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Anime"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Drama"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Popular"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Simulcasts"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Updated"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Alphabetical"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Genres"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Seasons"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Featured"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Newest"
+msgstr ""
+
+
+# Crunchyroll Messages
+
+msgctxt "#30060"
+msgid "Login failed"
+msgstr ""
+
+msgctxt "#30061"
+msgid "An error occurred"
+msgstr ""
+
+msgctxt "#30062"
+msgid "You need to be logged in"
+msgstr ""
+
+msgctxt "#30063"
+msgid "You need to be a premium member"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Failed to play video"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Do you want to continue watching at %s%%?"
+msgstr ""
+
+msgctxt "#30066"
+msgid "If the video does not start wait 30 seconds for the fallback to start."
+msgstr ""
+
+msgctxt "#30067"
+msgid "Add to queue"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Remove from queue"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Alternative Subtitle Language"
+msgstr ""
+
+msgctxt "#30070"
+msgid "None"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Added to queue"
+msgstr "Added to queue"
